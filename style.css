@@ -32,14 +32,14 @@ background-color: whitesmoke;
   }
 
   .Lamborghini{
-    background-image: url('/project/imges/kevin-fitzgerald-kZQ8tkJdqKM-unsplash.jpg');
+    background-image: url('project/imges/kevin-fitzgerald-kZQ8tkJdqKM-unsplash.jpg');
   }
 
   .bmw{
-    background-image: url('/project/imges/devon-janse-van-rensburg-yoqHLUayUTg-unsplash.jpg');
+    background-image: url('project/imges/devon-janse-van-rensburg-yoqHLUayUTg-unsplash.jpg');
   }
   .luxury{
-    background-image: url('/project/imges/john-vicente-zbwWLXUZGsc-unsplash.jpg');
+    background-image: url('project/imges/john-vicente-zbwWLXUZGsc-unsplash.jpg');
   }
 
   .car-bg-contanier h1{
